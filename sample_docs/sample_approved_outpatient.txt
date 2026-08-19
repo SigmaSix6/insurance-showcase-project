@@ -1,0 +1,22 @@
+INSURANCE CLAIM FORM
+====================
+
+Patient Name: Jordan Hale
+Policy Number: POL-88421A
+Member ID: POL-88421A
+
+Provider Name: Riverside Outpatient Clinic
+NPI: 1678954321
+
+Date of Service: 2026-05-12
+Claim Date: 2026-05-20
+Category: outpatient
+
+Diagnosis Code: J06.9
+Procedure Code / CPT: 99213
+Description: Office visit for acute upper respiratory infection
+
+Amount Claimed: $480.00
+Total Billed: $480.00
+
+Notes: Standard outpatient encounter. Medically necessary care.

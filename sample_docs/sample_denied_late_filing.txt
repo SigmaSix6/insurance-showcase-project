@@ -1,0 +1,19 @@
+INSURANCE CLAIM FORM
+====================
+
+Patient Name: Maya Chen
+Policy Number: POL-55219B
+Provider: Metro Emergency Center
+NPI: 1987654321
+
+Date of Service: 2025-11-02
+Date Submitted: 2026-06-30
+Category: emergency
+
+Diagnosis Code: S93.401A
+CPT: 99284
+Description: Emergency evaluation for ankle sprain after fall
+
+Total Amount: $2,450.00
+
+Notes: Emergency department visit. Imaging included.

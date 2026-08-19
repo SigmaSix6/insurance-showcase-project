@@ -1,0 +1,20 @@
+CLAIM DOCUMENT
+==============
+
+Patient Name: Sam Okonkwo
+Policy Number: POL-33018D
+Provider Name: Harbor Diagnostics Lab
+NPI: 1567890123
+
+Date of Service: 2026-06-01
+Claim Date: 2026-06-05
+Category: diagnostics
+
+Diagnosis Code: R10.9
+CPT: 74177
+Description: CT abdomen/pelvis with contrast for abdominal pain workup
+
+Amount Claimed: $8,900.00
+Charges: $8,900.00
+
+Notes: High-cost diagnostic imaging study.

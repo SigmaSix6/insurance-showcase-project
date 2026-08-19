@@ -1,0 +1,19 @@
+MEDICAL CLAIM SUBMISSION
+========================
+
+Patient: Alex Rivera
+Policy #: POL-77104C
+Rendering Provider: Glow Aesthetic Studio
+NPI: 1122334455
+
+Service Date: 2026-04-08
+Filing Date: 2026-04-10
+Type of Service: cosmetic
+
+ICD-10: L90.5
+Procedure: 15823
+Description: Elective cosmetic eyelid procedure / aesthetic enhancement
+
+Billed Amount: $3,200.00
+
+Narrative: Patient requested elective aesthetic treatment; not medically necessary.
